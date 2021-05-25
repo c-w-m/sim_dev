@@ -1,0 +1,9 @@
+# Repository
+.git/
+
+# PyCharm IDE
+.idea/
+
+# Virtual Environment
+.venv/
+.tox/
