@@ -1,3 +1,9 @@
 # doc
+[submodule "doc/myhdl/myhdl-site"]
+	path = doc/myhdl/myhdl-site
+	url = https://github.com/c-w-m/myhdl-site.git
 
 # src
+[submodule "src/myhdl"]
+	path = src/myhdl
+	url = https://github.com/c-w-m/myhdl.git
