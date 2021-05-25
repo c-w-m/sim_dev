@@ -1,4 +1,4 @@
-# [mdf-logo](doc/img/mdf-logo100x100.gif) Simulation Development
+# ![mdf-logo](doc/img/mdf-logo100x100.gif) Simulation Development
 
 #### Table of Contents
 * [Setup](#markdown-header-setup)
