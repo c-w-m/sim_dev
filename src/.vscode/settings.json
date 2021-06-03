@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "desmod/.tox/desmod37/bin/python",
+    "python.pythonPath": "simpy/.tox/py37/bin/python",
     "cSpell.words": [
         "gtkw",
         "intbv",
