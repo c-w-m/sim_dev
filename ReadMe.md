@@ -20,12 +20,8 @@ $ git clone --recurse-submodules https://github.com/c-w-m/sim_dev.git
 ### Submodules
 ```shell
 # The following submodules were added:
-$ cd doc/myhdl
-$ git submodule add https://github.com/c-w-m/myhdl-site.git
-
 $ cd src
 # Tutorials
-$ git submodule add https://github.com/c-w-m/myhdl.git
 $ git submodule add https://github.com/c-w-m/desmod.git
 ```
 

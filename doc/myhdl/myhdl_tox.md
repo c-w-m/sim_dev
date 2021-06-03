@@ -1,7 +1,4 @@
 # MyHDL
-2021-05-24
+2021-06-02
 
-`tox.ini` installation:
-```shell# 
-
-```
+Unable to get this working - abort!

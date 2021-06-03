@@ -1,7 +1,16 @@
 {
-    "python.pythonPath": "~/git/git.c-w-m/sim_dev/src/desmod/.tox/desmod37/bin",
+    "python.pythonPath": "desmod/.tox/desmod37/bin/python",
     "cSpell.words": [
         "gtkw",
+        "intbv",
+        "modbv",
+        "myhdl",
         "simpy"
-    ]
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }
