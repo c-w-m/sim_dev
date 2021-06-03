@@ -4,3 +4,6 @@
 [submodule "src/desmod"]
 	path = src/desmod
 	url = https://github.com/c-w-m/desmod.git
+[submodule "src/simpy"]
+	path = src/simpy
+	url = https://github.com/c-w-m/simpy.git

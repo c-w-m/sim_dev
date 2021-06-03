@@ -23,6 +23,9 @@ $ git clone --recurse-submodules https://github.com/c-w-m/sim_dev.git
 $ cd src
 # Tutorials
 $ git submodule add https://github.com/c-w-m/desmod.git
+# Framework
+$ git submodule add https://github.com/c-w-m/sympy.git
+
 ```
 
 #### Removing Submodules
