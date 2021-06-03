@@ -26,6 +26,7 @@ $ git submodule add https://github.com/c-w-m/myhdl-site.git
 $ cd src
 # Tutorials
 $ git submodule add https://github.com/c-w-m/myhdl.git
+$ git submodule add https://github.com/c-w-m/desmod.git
 ```
 
 #### Removing Submodules

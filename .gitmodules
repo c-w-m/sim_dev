@@ -7,3 +7,6 @@
 [submodule "src/myhdl"]
 	path = src/myhdl
 	url = https://github.com/c-w-m/myhdl.git
+[submodule "src/desmod"]
+	path = src/desmod
+	url = https://github.com/c-w-m/desmod.git
