@@ -10,3 +10,6 @@
 # Virtual Environment
 .venv/
 .tox/
+
+# MyPy format checker
+.mypy_cache/
