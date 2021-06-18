@@ -7,3 +7,6 @@
 [submodule "src/simpy"]
 	path = src/simpy
 	url = https://github.com/c-w-m/simpy.git
+[submodule "src/FP-2ed"]
+	path = src/FP-2ed
+	url = https://github.com/c-w-m/FP-2ed.git

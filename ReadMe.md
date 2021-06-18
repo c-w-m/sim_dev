@@ -50,6 +50,7 @@ The following open-source projects were forked to allow experimental changes wit
 $ cd src
 $ git submodule add https://github.com/c-w-m/desmod.git
 $ git submodule add https://github.com/c-w-m/sympy.git
+$ git submodule add https://github.com/c-w-m/FP-2ed.git
 ```
 
 #### Removing Submodules
@@ -73,6 +74,7 @@ These are in `src/`
 |------------|------------------------|
 | desmod     | Discrete Event Simulation (based on sympy)|
 | simpy      | discrete-event simulation library |
+| fp-2ed     | Functional Programming, 2nd ed |
 
 ## Jupyter Notebooks
 Remember to use `ipykernel` to expose your python environment in Jupyterlab.
