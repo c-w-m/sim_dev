@@ -9,7 +9,7 @@
 This project is a collection of open source tools used for creating python simulations.
 
 ## Setup
-`tox` is the preferred virtual environment management tool when not behind a proxy.  When working behind a `proxy` it may be more convenient to use Anaconda.
+`tox` is the preferred virtual environment management tool when not behind a proxy.  When working behind a `proxy` it may be more convenient to use Anaconda to setup the virtual environments.
 
 ### Create a Python Virtual Environment
 To create an environment named `eda_dev39` with python 3.9:
@@ -32,8 +32,8 @@ Additional commands can be found in the [cheet-sheets.pdf](doc/conda/conda-cheat
 ### Download the Project Code
 Use `clone -- recursive` to get the submodule code.
 ```shell
-$ git clone --recurse-submodules https://github.com/c-w-m/sim_dev.git  ## https or
-$ git clone --recurse-submodules git@github.com:c-w-m/sim_dev.git      ## ssh
+$ git clone --recursive https://github.com/c-w-m/sim_dev.git  ## https or
+$ git clone --recursive git@github.com:c-w-m/sim_dev.git      ## ssh
 ```
 
 ## Directory Layout
